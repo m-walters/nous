@@ -1,2 +1,2 @@
-# nous
-Nous
+# nous / noesis
+Nous / Noesis
